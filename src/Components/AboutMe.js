@@ -15,7 +15,9 @@ export default function AboutMe(){
             <a href="https://github.com/AshleyDennisDev">
             <GithubOutlined />
             </a>
+            <a href="mailto:adenn1852@gmail.com">
             <GoogleCircleFilled />
+            </a>
             </>
         </div>
     )
